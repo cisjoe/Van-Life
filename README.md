@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Van-Life
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center" >
+  <a href="https://cisjoe.github.io/Van-Life">cisjoe.github.io/Van-Life</a>
+</p>
 
-## Available Scripts
+<p align="center" >
+  Renting Vans React Application <a href="https://scrimba.com/learn/reactrouter6">Bob Ziroll React Router</a> Project.
+  <br>
+  This app is built by me which I tried too hard to pass all course challenges myself first.
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+<h3 align="center">Things to add in the future</h3>
+<p align="center" >
+  • Responsive
+   <br>
+  • Complete the app "2nd half"
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
+ 
+<div align="center">
+  <h3>This project is built with</h3>
+    <code><img title="CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+    <code><img title="REACT JS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+</div>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<h3 align="center">Screens</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![home](https://github.com/cisjoe/Van-Life/assets/105171436/63aceb18-1ea2-4459-bd1b-03244f6c7846)
+![about](https://github.com/cisjoe/Van-Life/assets/105171436/86e27238-2b54-4743-af7f-7b6a53e91453)
+![vans](https://github.com/cisjoe/Van-Life/assets/105171436/812c8a31-9192-4403-96b7-db0c4b80c271)
+![filtered_vans](https://github.com/cisjoe/Van-Life/assets/105171436/b11dec9e-a7a6-4af7-8d4e-7209dddcbea5)
+![van_details](https://github.com/cisjoe/Van-Life/assets/105171436/4d66ebcf-0ded-4848-8006-4c13a8c62758)
+![host_dashboard](https://github.com/cisjoe/Van-Life/assets/105171436/edc2b5f0-670e-45ad-8224-d054ab237c2d)
+![host_income](https://github.com/cisjoe/Van-Life/assets/105171436/9e40c90c-c9e3-4ef1-a90f-926cd19a8cf2)
+![host_vans](https://github.com/cisjoe/Van-Life/assets/105171436/8ca26c8a-7de9-41bb-a84f-497c6efd3d8c)
+![host_reviews](https://github.com/cisjoe/Van-Life/assets/105171436/762c6fbe-44b1-4bdd-b6fb-816cc9ab2727)
+![error_page](https://github.com/cisjoe/Van-Life/assets/105171436/40e2aa5f-7ed2-4605-90a8-85ec67de4957)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
